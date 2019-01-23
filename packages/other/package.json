@@ -1,0 +1,11 @@
+{
+  "name": "@sinko/other",
+  "version": "0.0.0",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@sinko/common": "^0.0.0"
+  }
+}
