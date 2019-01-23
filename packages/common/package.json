@@ -1,6 +1,6 @@
 {
   "name": "@sinko/common",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "ISC",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
